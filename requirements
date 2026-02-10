@@ -1,0 +1,16 @@
+# requirements.txt - UPDATED
+pyrogram==2.0.106
+tgcrypto==1.2.5
+aiohttp==3.9.0
+aiofiles==23.2.1
+flask==2.3.3
+gunicorn
+dotenv
+aiohttp_socks
+aiohttp
+rich
+telethon
+dataclasses
+python-telegram-bot==22.6
+dns
+requests
